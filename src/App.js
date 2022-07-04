@@ -9,7 +9,8 @@ function App() {
         <h1>Left Coast Standard</h1>
         <a
           className="App-link"
-          href="https://docs.google.com/document/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/edit?usp=sharing"
+          // href="https://docs.google.com/document/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/edit?usp=sharing"
+          href="https://drive.google.com/file/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/view"
           target="_blank"
           rel="noopener noreferrer"
         >
