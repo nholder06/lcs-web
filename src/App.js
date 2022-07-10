@@ -26,14 +26,16 @@ function App() {
           Striving to produce clean products without the use of any chemicals
         </h2>
         <div className="menu-link">
-          <a
-            // href="https://docs.google.com/document/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/edit?usp=sharing"
-            href="https://drive.google.com/file/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/view"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View Menu
-          </a>
+          <button className="menu-button">
+            <a
+              // href="https://docs.google.com/document/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/edit?usp=sharing"
+              href="https://drive.google.com/file/d/1nJpkJJVUK-3MIiwyIOMhvmsy6IZpAwPUrlo4H80gkT0/view"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View Menu
+            </a>
+          </button>
         </div>
       </body>
       <div>
